@@ -55,7 +55,7 @@ This project uses Selenium WebDriver to interact with Telegram Web, combined wit
 1. **Run the bot**:
    After setting up the environment and the dependencies, you can start the bot with the following command:
    ```bash
-   python bot.py
+   python main.py
    ```
 
 2. **Bot Workflow**:
