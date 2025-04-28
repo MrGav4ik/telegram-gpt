@@ -67,7 +67,7 @@ This project uses Selenium WebDriver to interact with Telegram Web, combined wit
 
 ## Files
 
-- `bot.py`: The main script that runs the Telegram chatbot with AI integration.
+- `main.py`: The main script that runs the Telegram chatbot with AI integration.
 - `.env`: A file to store sensitive information like API keys and passwords.
 - `requirements.txt`: A list of dependencies required for the project.
 - `chromedriver.exe`: The Selenium WebDriver for Chrome (ensure compatibility with your Chrome version).
